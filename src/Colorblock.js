@@ -6,6 +6,7 @@ function ColorBlock(props){
         style={{'backgroundColor': props.color}}>
             <p>{props.color}</p>
         </div>
+        
     )
 }
 
